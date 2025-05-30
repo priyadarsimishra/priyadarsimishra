@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyadarsi Mishra</h1>
-<h3 align="center">A passionate software developer from Austin, Texas</h3>
+<h3 align="center">I am a junior at Texas A&M University studying Computer Science</h3>
 
 - 🌱 I’m currently studying **Multimodal Models, Reinforcement Learning and Agents**
 
