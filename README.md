@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyadarsi Mishra</h1>
 <h3 align="center">A passionate software developer from Austin, Texas</h3>
 
-- 🌱 I’m currently learning **Swift, Data Structures & Algorithms, Computer Vision**
+- 🌱 I’m currently studying **Multimodal Models, Reinforcement Learning and Agents**
 
 - 📫 How to reach me **santoshpriyadarsi@gmail.com**
 
